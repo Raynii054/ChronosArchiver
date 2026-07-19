@@ -1,0 +1,6 @@
+{
+  "name": "ChronosArchiver",
+  "description": "A professional full-stack vintage and antique photograph analysis, dating, and valuation ledger according to the 9-step archival workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
